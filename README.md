@@ -1,8 +1,8 @@
 # Weathermail
 
-Henter værdata fra yr i xml. Parser data ved hjelp av tinyxml, og sender ut mail med dagens være ved hjelp av Curl.
+Henter værdata fra yr i xml. Parser data ved hjelp av tinyxml2, og sender ut mail med dagens være ved hjelp av Curl.
 
-Ikke noe voldsomt å rope hurra for, var mest for å dyppe tærene i en xml-parser og curl, samt at samboeren min er veldig interessert i været.
+Ikke noe voldsomt å rope hurra for, var mest for å dyppe tærene i en xml-parser og curl, samt at samboeren min er veldig interessert i været. En ubuntuserver kjører denne daglig med hun som mottaker.
 
 
 Kent Odde, May 2019
