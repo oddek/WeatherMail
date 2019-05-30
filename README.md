@@ -6,4 +6,6 @@ Ikke noe voldsomt å rope hurra for, var mest for å dyppe tærene i en xml-pars
 
 Mye stygg unødvendig kode, og ikke akkurat flott struktur, men det funker.
 
+### All kode som involverer curl, er hentet fra eksemplene [her](https://curl.haxx.se/libcurl/c/example.html).
+
 Kent Odde, May 2019
